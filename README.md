@@ -54,6 +54,7 @@ Finally, the script saves the computed results to CSV files. It exports `total_t
 ## OUTPUT
 
 Total Time Spent per Page:
+
  page
 support     1.001063e+07
 profile     9.996564e+06
@@ -64,7 +65,7 @@ home        9.965842e+06
 Name: duration_seconds, dtype: float64
 
 Average Session Duration per User:
- user_id
+user_id
 user_31    61.079454
 user_41    61.024913
 user_29    60.967548
